@@ -45,7 +45,7 @@ Inquiries regarding the scripts provided are cordially welcome.
 ---
 **Citing**
 
-If you use our algorithm, please cite [[1]](https://ieeexplore.ieee.org/document/7490345/).
+If you use our design, please cite [[1]](https://ieeexplore.ieee.org/abstract/document/8706260/).
 
 ```bibtex
 @article{daskalakis2019rectifier,

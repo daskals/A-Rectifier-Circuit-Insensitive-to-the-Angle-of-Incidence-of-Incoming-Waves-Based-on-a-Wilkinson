@@ -1,0 +1,705 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.1.15)  5 MAY 2019 16:21
+entering extended mode
+**./TMTT-2018-11-1325.R1-Manuscript.tex
+(TMTT-2018-11-1325.R1-Manuscript.tex
+LaTeX2e <2018-12-01>
+(IEEEtran.cls
+Document Class: IEEEtran 2015/08/26 V1.8b by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+\@IEEEtrantmpdimenA=\dimen102
+\@IEEEtrantmpdimenB=\dimen103
+\@IEEEtrantmpdimenC=\dimen104
+\@IEEEtrantmpcountA=\count80
+\@IEEEtrantmpcountB=\count81
+\@IEEEtrantmpcountC=\count82
+\@IEEEtrantmptoksA=\toks14
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 503.
+
+("C:\Users\Daskals\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1ptm.fd
+"
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+-- Using 8.5in x 11in (letter) paper.
+-- Using PDF output.
+\@IEEEnormalsizeunitybaselineskip=\dimen105
+-- This is a 10 point document.
+\CLASSINFOnormalsizebaselineskip=\dimen106
+\CLASSINFOnormalsizeunitybaselineskip=\dimen107
+\IEEEnormaljot=\dimen108
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+\IEEEquantizedlength=\dimen109
+\IEEEquantizedlengthdiff=\dimen110
+\IEEEquantizedtextheightdiff=\dimen111
+\IEEEilabelindentA=\dimen112
+\IEEEilabelindentB=\dimen113
+\IEEEilabelindent=\dimen114
+\IEEEelabelindent=\dimen115
+\IEEEdlabelindent=\dimen116
+\IEEElabelindent=\dimen117
+\IEEEiednormlabelsep=\dimen118
+\IEEEiedmathlabelsep=\dimen119
+\IEEEiedtopsep=\skip41
+\c@section=\count83
+\c@subsection=\count84
+\c@subsubsection=\count85
+\c@paragraph=\count86
+\c@IEEEsubequation=\count87
+\abovecaptionskip=\skip42
+\belowcaptionskip=\skip43
+\c@figure=\count88
+\c@table=\count89
+\@IEEEeqnnumcols=\count90
+\@IEEEeqncolcnt=\count91
+\@IEEEsubeqnnumrollback=\count92
+\@IEEEquantizeheightA=\dimen120
+\@IEEEquantizeheightB=\dimen121
+\@IEEEquantizeheightC=\dimen122
+\@IEEEquantizeprevdepth=\dimen123
+\@IEEEquantizemultiple=\count93
+\@IEEEquantizeboxA=\box27
+\@IEEEtmpitemindent=\dimen124
+\IEEEPARstartletwidth=\dimen125
+\c@IEEEbiography=\count94
+\@IEEEtranrubishbin=\box28
+)
+("C:\Users\Daskals\AppData\Local\Programs\MiKTeX 2.9\tex/latex/mathtools\mathto
+ols.sty"
+Package: mathtools 2018/01/08 v1.21 mathematical typesetting tools
+
+("C:\Users\Daskals\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.
+sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+("C:\Users\Daskals\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\calc.sty"
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count95
+\calc@Bcount=\count96
+\calc@Adimen=\dimen126
+\calc@Bdimen=\dimen127
+\calc@Askip=\skip44
+\calc@Bskip=\skip45
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count97
+\calc@Cskip=\skip46
+)
+("C:\Users\Daskals\AppData\Local\Programs\MiKTeX 2.9\tex/latex/mathtools\mhsetu
+p.sty"
+Package: mhsetup 2017/03/31 v1.3 programming setup (MH)
+)
+("C:\Users\Daskals\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsmath.
+sty"
+Package: amsmath 2018/12/01 v2.17b AMS math features
+\@mathmargin=\skip47
+
+For additional information on amsmath, use the `?' option.
+
+("C:\Users\Daskals\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amstext.
+sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Users\Daskals\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsgen.s
+ty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks16
+\ex@=\dimen128
+))
+("C:\Users\Daskals\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsbsy.s
+ty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen129
+)
+("C:\Users\Daskals\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsopn.s
+ty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count98
+LaTeX Info: Redefining \frac on input line 223.
+\uproot@=\count99
+\leftroot@=\count100
+LaTeX Info: Redefining \overline on input line 385.
+\classnum@=\count101
+\DOTSCASE@=\count102
+LaTeX Info: Redefining \ldots on input line 482.
+LaTeX Info: Redefining \dots on input line 485.
+LaTeX Info: Redefining \cdots on input line 606.
+\Mathstrutbox@=\box29
+\strutbox@=\box30
+\big@size=\dimen130
+LaTeX Font Info:    Redeclaring font encoding OML on input line 729.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
+\macc@depth=\count103
+\c@MaxMatrixCols=\count104
+\dotsspace@=\muskip10
+\c@parentequation=\count105
+\dspbrk@lvl=\count106
+\tag@help=\toks17
+\row@=\count107
+\column@=\count108
+\maxfields@=\count109
+\andhelp@=\toks18
+\eqnshift@=\dimen131
+\alignsep@=\dimen132
+\tagshift@=\dimen133
+\tagwidth@=\dimen134
+\totwidth@=\dimen135
+\lineht@=\dimen136
+\@envbody=\toks19
+\multlinegap=\skip48
+\multlinetaggap=\skip49
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2844.
+LaTeX Info: Redefining \] on input line 2845.
+)
+LaTeX Info: Thecontrolsequence`\('isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\)'isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 129.
+\g_MT_multlinerow_int=\count110
+\l_MT_multwidth_dim=\dimen137
+\origjot=\skip50
+\l_MT_shortvdotswithinadjustabove_dim=\dimen138
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen139
+\l_MT_above_intertext_sep=\dimen140
+\l_MT_below_intertext_sep=\dimen141
+\l_MT_above_shortintertext_sep=\dimen142
+\l_MT_below_shortintertext_sep=\dimen143
+)
+("C:\Users\Daskals\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amssymb
+.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+("C:\Users\Daskals\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amsfont
+s.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+("C:\Users\Daskals\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphic
+x.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Daskals\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphic
+s.sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Daskals\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.st
+y"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\Daskals\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\gra
+phics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Users\Daskals\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdf
+tex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen144
+\Gin@req@width=\dimen145
+)
+("C:\Users\Daskals\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\epstopd
+f.sty"
+Package: epstopdf 2016/05/15 v2.6 Conversion with epstopdf on the fly (HO)
+
+("C:\Users\Daskals\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\epstopd
+f-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Users\Daskals\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\infwa
+rerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Users\Daskals\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grfext.
+sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Users\Daskals\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvdef
+inekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+("C:\Users\Daskals\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ltxcm
+ds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+("C:\Users\Daskals\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvoptio
+ns.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Users\Daskals\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvset
+keys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Users\Daskals\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\etexc
+mds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Users\Daskals\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\iflua
+tex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+))))
+("C:\Users\Daskals\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\pdfte
+xcmds.sty"
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Users\Daskals\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifpdf
+.sty"
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+))
+("C:\Users\Daskals\AppData\Local\Programs\MiKTeX 2.9\tex/latex/cite\cite.sty"
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+)
+("C:\Users\Daskals\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\array.sty"
+Package: array 2018/12/30 v2.4k Tabular extension package (FMi)
+\col@sep=\dimen146
+\ar@mcellbox=\box31
+\extrarowheight=\dimen147
+\NC@list=\toks21
+\extratabsurround=\skip51
+\backup@length=\skip52
+\ar@cellbox=\box32
+)
+("C:\Users\Daskals\AppData\Local\Programs\MiKTeX 2.9\tex/latex/eurosym\eurosym.
+sty"
+Package: eurosym 1998/08/06 v1.1 European currency symbol ``Euro''
+\@eurobox=\box33
+)
+("C:\Users\Daskals\AppData\Local\Programs\MiKTeX 2.9\tex/latex/preprint\balance
+.sty"
+Package: balance 1999/02/23 4.3 (PWD)
+\oldvsize=\dimen148
+)
+("C:\Users\Daskals\AppData\Local\Programs\MiKTeX 2.9\tex/latex/url\url.sty"
+\Urlmuskip=\muskip11
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+("C:\Users\Daskals\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\color.s
+ty"
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+
+("C:\Users\Daskals\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\col
+or.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+) (TMTT-2018-11-1325.R1-Manuscript.aux)
+\openout1 = `TMTT-2018-11-1325.R1-Manuscript.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+
+-- Lines per column: 58 (exact).
+
+("C:\Users\Daskals\AppData\Local\Programs\MiKTeX 2.9\tex/context/base\supp-pdf.
+mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count111
+\scratchdimen=\dimen149
+\scratchbox=\box34
+\nofMPsegments=\count112
+\nofMParguments=\count113
+\everyMPshowfont=\toks22
+\MPscratchCnt=\count114
+\MPscratchDim=\dimen150
+\MPnumerator=\count115
+\makeMPintoPDFobject=\count116
+\everyMPtoPDFconversion=\toks23
+)
+LaTeX Font Info:    Try loading font information for U+msa on input line 69.
+
+("C:\Users\Daskals\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd
+"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 69.
+
+("C:\Users\Daskals\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd
+"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1{C:/Users/Daskals/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
+
+
+]
+Package epstopdf Info: Source file: <Figures/Fig1.eps>
+(epstopdf)                    date: 2018-10-16 18:21:29
+(epstopdf)                    size: 158616 bytes
+(epstopdf)             Output file: <Figures/Fig1-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-10-16 18:21:31
+(epstopdf)                    size: 8306 bytes
+(epstopdf)             Command: <epstopdf --outfile=Figures/Fig1-eps-converted-
+to.pdf Figures/Fig1.eps>
+(epstopdf)             \includegraphics on input line 180.
+Package epstopdf Info: Output file is already uptodate.
+<Figures/Fig1-eps-converted-to.pdf, id=15, 191.71625pt x 173.64874pt>
+File: Figures/Fig1-eps-converted-to.pdf Graphic file (type pdf)
+<use Figures/Fig1-eps-converted-to.pdf>
+Package pdftex.def Info: Figures/Fig1-eps-converted-to.pdf  used on input line 
+180.
+(pdftex.def)             Requested size: 201.60077pt x 182.61212pt.
+Package epstopdf Info: Source file: <Figures/Fig2.eps>
+(epstopdf)                    date: 2018-11-08 00:15:26
+(epstopdf)                    size: 209951 bytes
+(epstopdf)             Output file: <Figures/Fig2-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-11-08 00:16:23
+(epstopdf)                    size: 11095 bytes
+(epstopdf)             Command: <epstopdf --outfile=Figures/Fig2-eps-converted-
+to.pdf Figures/Fig2.eps>
+(epstopdf)             \includegraphics on input line 228.
+Package epstopdf Info: Output file is already uptodate.
+<Figures/Fig2-eps-converted-to.pdf, id=16, 208.78pt x 180.675pt>
+File: Figures/Fig2-eps-converted-to.pdf Graphic file (type pdf)
+<use Figures/Fig2-eps-converted-to.pdf>
+Package pdftex.def Info: Figures/Fig2-eps-converted-to.pdf  used on input line 
+228.
+(pdftex.def)             Requested size: 201.60077pt x 174.47157pt.
+
+[2 <./Figures/Fig1-eps-converted-to.pdf> <./Figures/Fig2-eps-converted-to.pdf>]
+
+Underfull \hbox (badness 10000) in paragraph at lines 308--327
+[]\OT1/ptm/m/n/10 The con-ven-tional Wilkin-son power com-biner/divider
+ []
+
+Package epstopdf Info: Source file: <Figures/Fig3.eps>
+(epstopdf)                    date: 2017-11-14 20:33:21
+(epstopdf)                    size: 18205594 bytes
+(epstopdf)             Output file: <Figures/Fig3-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-10-27 17:44:06
+(epstopdf)                    size: 188779 bytes
+(epstopdf)             Command: <epstopdf --outfile=Figures/Fig3-eps-converted-
+to.pdf Figures/Fig3.eps>
+(epstopdf)             \includegraphics on input line 435.
+Package epstopdf Info: Output file is already uptodate.
+<Figures/Fig3-eps-converted-to.pdf, id=33, 175.65625pt x 142.5325pt>
+File: Figures/Fig3-eps-converted-to.pdf Graphic file (type pdf)
+<use Figures/Fig3-eps-converted-to.pdf>
+Package pdftex.def Info: Figures/Fig3-eps-converted-to.pdf  used on input line 
+435.
+(pdftex.def)             Requested size: 201.60077pt x 163.5979pt.
+[3 <./Figures/Fig3-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <Figures/Fig4.eps>
+(epstopdf)                    date: 2018-10-18 13:47:21
+(epstopdf)                    size: 72702 bytes
+(epstopdf)             Output file: <Figures/Fig4-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-10-27 17:48:21
+(epstopdf)                    size: 23728 bytes
+(epstopdf)             Command: <epstopdf --outfile=Figures/Fig4-eps-converted-
+to.pdf Figures/Fig4.eps>
+(epstopdf)             \includegraphics on input line 519.
+Package epstopdf Info: Output file is already uptodate.
+<Figures/Fig4-eps-converted-to.pdf, id=45, 421.575pt x 316.18124pt>
+File: Figures/Fig4-eps-converted-to.pdf Graphic file (type pdf)
+<use Figures/Fig4-eps-converted-to.pdf>
+Package pdftex.def Info: Figures/Fig4-eps-converted-to.pdf  used on input line 
+519.
+(pdftex.def)             Requested size: 226.79846pt x 170.1033pt.
+Package epstopdf Info: Source file: <Figures/Fig5.eps>
+(epstopdf)                    date: 2018-10-18 13:46:48
+(epstopdf)                    size: 151686 bytes
+(epstopdf)             Output file: <Figures/Fig5-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-10-27 17:48:22
+(epstopdf)                    size: 23040 bytes
+(epstopdf)             Command: <epstopdf --outfile=Figures/Fig5-eps-converted-
+to.pdf Figures/Fig5.eps>
+(epstopdf)             \includegraphics on input line 527.
+Package epstopdf Info: Output file is already uptodate.
+<Figures/Fig5-eps-converted-to.pdf, id=46, 421.575pt x 316.18124pt>
+File: Figures/Fig5-eps-converted-to.pdf Graphic file (type pdf)
+<use Figures/Fig5-eps-converted-to.pdf>
+Package pdftex.def Info: Figures/Fig5-eps-converted-to.pdf  used on input line 
+527.
+(pdftex.def)             Requested size: 226.79846pt x 170.1033pt.
+Package epstopdf Info: Source file: <Figures/Fig6.eps>
+(epstopdf)                    date: 2018-10-21 17:53:00
+(epstopdf)                    size: 87816 bytes
+(epstopdf)             Output file: <Figures/Fig6-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-10-27 17:48:23
+(epstopdf)                    size: 3423 bytes
+(epstopdf)             Command: <epstopdf --outfile=Figures/Fig6-eps-converted-
+to.pdf Figures/Fig6.eps>
+(epstopdf)             \includegraphics on input line 545.
+Package epstopdf Info: Output file is already uptodate.
+<Figures/Fig6-eps-converted-to.pdf, id=47, 421.575pt x 316.18124pt>
+File: Figures/Fig6-eps-converted-to.pdf Graphic file (type pdf)
+<use Figures/Fig6-eps-converted-to.pdf>
+Package pdftex.def Info: Figures/Fig6-eps-converted-to.pdf  used on input line 
+545.
+(pdftex.def)             Requested size: 226.79846pt x 170.1033pt.
+Package epstopdf Info: Source file: <Figures/Fig7.eps>
+(epstopdf)                    date: 2018-10-22 21:26:55
+(epstopdf)                    size: 84726 bytes
+(epstopdf)             Output file: <Figures/Fig7-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-10-27 17:48:23
+(epstopdf)                    size: 3422 bytes
+(epstopdf)             Command: <epstopdf --outfile=Figures/Fig7-eps-converted-
+to.pdf Figures/Fig7.eps>
+(epstopdf)             \includegraphics on input line 552.
+Package epstopdf Info: Output file is already uptodate.
+<Figures/Fig7-eps-converted-to.pdf, id=48, 421.575pt x 316.18124pt>
+File: Figures/Fig7-eps-converted-to.pdf Graphic file (type pdf)
+<use Figures/Fig7-eps-converted-to.pdf>
+Package pdftex.def Info: Figures/Fig7-eps-converted-to.pdf  used on input line 
+552.
+(pdftex.def)             Requested size: 226.79846pt x 170.1033pt.
+Package epstopdf Info: Source file: <Figures/Fig11.eps>
+(epstopdf)                    date: 2018-10-21 16:01:53
+(epstopdf)                    size: 16971 bytes
+(epstopdf)             Output file: <Figures/Fig11-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-10-27 17:54:31
+(epstopdf)                    size: 3859 bytes
+(epstopdf)             Command: <epstopdf --outfile=Figures/Fig11-eps-converted
+-to.pdf Figures/Fig11.eps>
+(epstopdf)             \includegraphics on input line 561.
+Package epstopdf Info: Output file is already uptodate.
+<Figures/Fig11-eps-converted-to.pdf, id=49, 421.575pt x 316.18124pt>
+File: Figures/Fig11-eps-converted-to.pdf Graphic file (type pdf)
+<use Figures/Fig11-eps-converted-to.pdf>
+Package pdftex.def Info: Figures/Fig11-eps-converted-to.pdf  used on input line
+ 561.
+(pdftex.def)             Requested size: 226.79846pt x 170.1033pt.
+Package epstopdf Info: Source file: <Figures/Fig12.eps>
+(epstopdf)                    date: 2018-10-21 17:09:15
+(epstopdf)                    size: 103074 bytes
+(epstopdf)             Output file: <Figures/Fig12-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-10-27 17:54:32
+(epstopdf)                    size: 3656 bytes
+(epstopdf)             Command: <epstopdf --outfile=Figures/Fig12-eps-converted
+-to.pdf Figures/Fig12.eps>
+(epstopdf)             \includegraphics on input line 568.
+Package epstopdf Info: Output file is already uptodate.
+<Figures/Fig12-eps-converted-to.pdf, id=50, 421.575pt x 316.18124pt>
+File: Figures/Fig12-eps-converted-to.pdf Graphic file (type pdf)
+<use Figures/Fig12-eps-converted-to.pdf>
+Package pdftex.def Info: Figures/Fig12-eps-converted-to.pdf  used on input line
+ 568.
+(pdftex.def)             Requested size: 226.79846pt x 170.1033pt.
+ [4 <./Figures/Fig4-eps-converted-to.pdf> <./Figures/Fig5-eps-converted-to.pdf>
+]
+Package epstopdf Info: Source file: <Figures/Fig13.eps>
+(epstopdf)                    date: 2018-10-18 12:41:44
+(epstopdf)                    size: 35288564 bytes
+(epstopdf)             Output file: <Figures/Fig13-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-10-27 17:55:11
+(epstopdf)                    size: 744393 bytes
+(epstopdf)             Command: <epstopdf --outfile=Figures/Fig13-eps-converted
+-to.pdf Figures/Fig13.eps>
+(epstopdf)             \includegraphics on input line 626.
+Package epstopdf Info: Output file is already uptodate.
+<Figures/Fig13-eps-converted-to.pdf, id=62, 285.065pt x 150.5625pt>
+File: Figures/Fig13-eps-converted-to.pdf Graphic file (type pdf)
+<use Figures/Fig13-eps-converted-to.pdf>
+Package pdftex.def Info: Figures/Fig13-eps-converted-to.pdf  used on input line
+ 626.
+(pdftex.def)             Requested size: 226.79846pt x 119.7885pt.
+Package epstopdf Info: Source file: <Figures/Fig14.eps>
+(epstopdf)                    date: 2018-10-22 21:30:32
+(epstopdf)                    size: 19538 bytes
+(epstopdf)             Output file: <Figures/Fig14-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-10-27 17:55:11
+(epstopdf)                    size: 4403 bytes
+(epstopdf)             Command: <epstopdf --outfile=Figures/Fig14-eps-converted
+-to.pdf Figures/Fig14.eps>
+(epstopdf)             \includegraphics on input line 633.
+Package epstopdf Info: Output file is already uptodate.
+<Figures/Fig14-eps-converted-to.pdf, id=63, 421.575pt x 316.18124pt>
+File: Figures/Fig14-eps-converted-to.pdf Graphic file (type pdf)
+<use Figures/Fig14-eps-converted-to.pdf>
+Package pdftex.def Info: Figures/Fig14-eps-converted-to.pdf  used on input line
+ 633.
+(pdftex.def)             Requested size: 226.79846pt x 170.1033pt.
+Package epstopdf Info: Source file: <Figures/Fig15.eps>
+(epstopdf)                    date: 2018-11-13 03:43:22
+(epstopdf)                    size: 95623 bytes
+(epstopdf)             Output file: <Figures/Fig15-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-11-14 20:41:13
+(epstopdf)                    size: 3627 bytes
+(epstopdf)             Command: <epstopdf --outfile=Figures/Fig15-eps-converted
+-to.pdf Figures/Fig15.eps>
+(epstopdf)             \includegraphics on input line 642.
+Package epstopdf Info: Output file is already uptodate.
+<Figures/Fig15-eps-converted-to.pdf, id=64, 421.575pt x 316.18124pt>
+File: Figures/Fig15-eps-converted-to.pdf Graphic file (type pdf)
+<use Figures/Fig15-eps-converted-to.pdf>
+Package pdftex.def Info: Figures/Fig15-eps-converted-to.pdf  used on input line
+ 642.
+(pdftex.def)             Requested size: 226.79846pt x 170.1033pt.
+Package epstopdf Info: Source file: <Figures/Fig16.eps>
+(epstopdf)                    date: 2018-11-13 03:45:48
+(epstopdf)                    size: 95693 bytes
+(epstopdf)             Output file: <Figures/Fig16-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-11-14 20:41:14
+(epstopdf)                    size: 3672 bytes
+(epstopdf)             Command: <epstopdf --outfile=Figures/Fig16-eps-converted
+-to.pdf Figures/Fig16.eps>
+(epstopdf)             \includegraphics on input line 651.
+Package epstopdf Info: Output file is already uptodate.
+<Figures/Fig16-eps-converted-to.pdf, id=65, 421.575pt x 316.18124pt>
+File: Figures/Fig16-eps-converted-to.pdf Graphic file (type pdf)
+<use Figures/Fig16-eps-converted-to.pdf>
+Package pdftex.def Info: Figures/Fig16-eps-converted-to.pdf  used on input line
+ 651.
+(pdftex.def)             Requested size: 226.79846pt x 170.1033pt.
+ [5 <./Figures/Fig6-eps-converted-to.pdf> <./Figures/Fig7-eps-converted-to.pdf>
+ <./Figures/Fig11-eps-converted-to.pdf> <./Figures/Fig12-eps-converted-to.pdf> 
+<./Figures/Fig13-eps-converted-to.pdf>] [6 <./Figures/Fig14-eps-converted-to.pd
+f> <./Figures/Fig15-eps-converted-to.pdf> <./Figures/Fig16-eps-converted-to.pdf
+>] [7]
+<Figures/Fig17.png, id=106, 326.21875pt x 325.215pt>
+File: Figures/Fig17.png Graphic file (type png)
+<use Figures/Fig17.png>
+Package pdftex.def Info: Figures/Fig17.png  used on input line 1060.
+(pdftex.def)             Requested size: 72.27109pt x 72.04872pt.
+File: Figures/Fig17.png Graphic file (type png)
+<use Figures/Fig17.png>
+Package pdftex.def Info: Figures/Fig17.png  used on input line 1060.
+(pdftex.def)             Requested size: 72.27109pt x 72.04872pt.
+<Figures/Fig18.jpg, id=109, 73.7082pt x 91.32626pt>
+File: Figures/Fig18.jpg Graphic file (type jpg)
+<use Figures/Fig18.jpg>
+Package pdftex.def Info: Figures/Fig18.jpg  used on input line 1069.
+(pdftex.def)             Requested size: 72.27402pt x 89.54929pt.
+File: Figures/Fig18.jpg Graphic file (type jpg)
+<use Figures/Fig18.jpg>
+Package pdftex.def Info: Figures/Fig18.jpg  used on input line 1069.
+(pdftex.def)             Requested size: 72.27402pt x 89.54929pt.
+
+Underfull \hbox (badness 2894) in paragraph at lines 1069--1097
+[]\OT1/ptm/b/n/8 Apostolos Geor-giadis \OT1/ptm/m/n/8 (S'94-M'02-SM'08) was
+ []
+
+[8 <./Figures/Fig17.png> <./Figures/Fig18.jpg>]
+<Figures/Fig19.png, id=117, 193.47281pt x 272.51813pt>
+File: Figures/Fig19.png Graphic file (type png)
+<use Figures/Fig19.png>
+Package pdftex.def Info: Figures/Fig19.png  used on input line 1100.
+(pdftex.def)             Requested size: 68.65527pt x 96.7051pt.
+File: Figures/Fig19.png Graphic file (type png)
+<use Figures/Fig19.png>
+Package pdftex.def Info: Figures/Fig19.png  used on input line 1100.
+(pdftex.def)             Requested size: 68.65527pt x 96.7051pt.
+<Figures/Fig20.jpg, id=120, 525.965pt x 616.3025pt>
+File: Figures/Fig20.jpg Graphic file (type jpg)
+<use Figures/Fig20.jpg>
+Package pdftex.def Info: Figures/Fig20.jpg  used on input line 1111.
+(pdftex.def)             Requested size: 72.27025pt x 84.68307pt.
+File: Figures/Fig20.jpg Graphic file (type jpg)
+<use Figures/Fig20.jpg>
+Package pdftex.def Info: Figures/Fig20.jpg  used on input line 1111.
+(pdftex.def)             Requested size: 72.27025pt x 84.68307pt.
+ [9 <./Figures/Fig19.png> <./Figures/Fig20.jpg>] (TMTT-2018-11-1325.R1-Manuscri
+pt.aux) ) 
+Here is how much of TeX's memory you used:
+ 4213 strings out of 492942
+ 68311 string characters out of 3125201
+ 145658 words of memory out of 3000000
+ 8008 multiletter control sequences out of 15000+200000
+ 49262 words of font info for 99 fonts, out of 3000000 for 9000
+ 1145 hyphenation exceptions out of 8191
+ 42i,13n,37p,3143b,333s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/Daskals/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/ba
+se/8r.enc}<C:/Users/Daskals/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publi
+c/amsfonts/cm/cmmi10.pfb><C:/Users/Daskals/AppData/Local/Programs/MiKTeX 2.9/fo
+nts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/Daskals/AppData/Local/Programs
+/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/Daskals/AppData/
+Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Da
+skals/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi9.pf
+b><C:/Users/Daskals/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfon
+ts/cm/cmr10.pfb><C:/Users/Daskals/AppData/Local/Programs/MiKTeX 2.9/fonts/type1
+/public/amsfonts/cm/cmr7.pfb><C:/Users/Daskals/AppData/Local/Programs/MiKTeX 2.
+9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Daskals/AppData/Local/Progr
+ams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/Daskals/AppDat
+a/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users
+/Daskals/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8
+.pfb><C:/Users/Daskals/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/ams
+fonts/cm/cmsy9.pfb><C:/Users/Daskals/AppData/Local/Programs/MiKTeX 2.9/fonts/ty
+pe1/urw/times/utmb8a.pfb><C:/Users/Daskals/AppData/Local/Programs/MiKTeX 2.9/fo
+nts/type1/urw/times/utmbi8a.pfb><C:/Users/Daskals/AppData/Local/Programs/MiKTeX
+ 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Users/Daskals/AppData/Local/Programs/
+MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on TMTT-2018-11-1325.R1-Manuscript.pdf (9 pages, 1432135 bytes).
+
+PDF statistics:
+ 179 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 134 words of extra memory for PDF output out of 10000 (max. 10000000)
+
