@@ -54,7 +54,6 @@ If you use our design, please cite [[1]](https://ieeexplore.ieee.org/abstract/do
   year={2019},
   publisher={IEEE}
 }
-}
  
 ```
 
