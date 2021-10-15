@@ -1,14 +1,9 @@
 # A Rectifier Circuit Insensitive to the Angle of Incidence of Incoming Waves Based on a Wilkinson Power Combiner
-Design files of IEEE publication: A Rectifier Circuit Insensitive to the Angle of
-Incidence of Incoming Waves Based on a Wilkinson
-Power Combiner
+Design files of IEEE publication: A Rectifier Circuit Insensitive to the Angle of Incidence of Incoming Waves Based on a Wilkinson Power Combiner
 
 
-In this repo, a novel high efficiency, low-cost and
-low-complexity RF-to-dc converter was designed for RF energy
-harvesting in the 2.4 GHz band. The proposed design has two
-RF inputs and maintains a high efficiency over a wide range
-of incoming incident wave angles. The circuit is based on a
+In this repo, a novel high efficiency, low-cost and low-complexity RF-to-dc converter was designed for RF energy harvesting in the 2.4 GHz band. The proposed design has two
+RF inputs and maintains a high efficiency over a wide range of incoming incident wave angles. The circuit is based on a
 Wilkinson power combiner and has two single-diode rectifiers.
 One rectifier is connected at the combiner’s output and collects
 the energy coming from the two inputs. The second rectifier
@@ -23,8 +18,8 @@ efficiency was 16.2% for in-phase input signals with available
 input power −17 dBm. When the relative phase of input signals
 varied from 0 to 360 degrees, a variation in efficiency between
 15.3% and 22% was observed. For input power 3 dBm, the
-efficiency varies from 26% to 39% between 0 to 360 degrees
-phase difference.
+efficiency varies from 26% to 39% between 0 to 360 degrees phase difference.
+
 ---
 
 **Authors:**
