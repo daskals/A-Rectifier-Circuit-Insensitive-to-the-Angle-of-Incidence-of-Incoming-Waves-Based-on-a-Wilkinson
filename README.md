@@ -1,5 +1,5 @@
-# Soil-Moisture-Scatter-Radio-Networking-with-Low-Power
-Design files of  IEEE publication: A Rectifier Circuit Insensitive to the Angle of
+# A Rectifier Circuit Insensitive to the Angle of Incidence of Incoming Waves Based on a Wilkinson Power Combiner
+Design files of IEEE publication: A Rectifier Circuit Insensitive to the Angle of
 Incidence of Incoming Waves Based on a Wilkinson
 Power Combiner
 
