@@ -27,11 +27,12 @@ efficiency varies from 26% to 39% between 0 to 360 degrees
 phase difference.
 ---
 
-**Authors**
+**Authors:**
+
 Spyridon Nektarios Daskalakis\
 Apostolos Georgiadis\
 George Goussetis\
-Manos M. Tentzeris\
+Manos M. Tentzeris
 ---
 IEEE Xplore: https://ieeexplore.ieee.org/abstract/document/8706260 \
 Local: http://daskalakispiros.com/files/daskalakis_mtt_2019.pdf
@@ -63,4 +64,4 @@ If you use our design, please cite [[1]](https://ieeexplore.ieee.org/abstract/do
 ```
 
 
-[[1]](https://ieeexplore.ieee.org/document/7490345/) S. N. Daskalakis, S.D. Assimonis, E. Kampianakis and A. Bletsas, Soil Moisture Scatter Radio Networking with Low Power, IEEE Transactions on Microwave Theory and Techniques (TMTT), Special Issue on RFID Sensing & Imaging, Vol. 64, No. 7, pp. 2338-2346, July 2016.
+[[1]](https://ieeexplore.ieee.org/abstract/document/8706260/) S. N. Daskalakis, A. Georgiadis, G. Goussetis and M. M. Tentzeris, A Rectifier Array Insensitive to the Angle of Incidence of Incoming Waves Based on a Wilkinson Power Combiner, IEEE Transactions on Microwave Theory and Techniques (TMTT), Vol. 67, No. 7, pp. 3210-3218, July 2019.​​
